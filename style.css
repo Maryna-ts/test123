@@ -1,0 +1,144 @@
+.navigation  {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    margin: 0;
+    border: 1px solid seagreen;
+    background-color: silver;
+}
+
+.navigation ul {
+    text-align: center;
+    list-style-type: none;
+    padding: 0 10px 10px 10px;
+}
+
+.navigation ul li {
+    display: inline;
+    border: 1px solid red;
+    text-align: center;
+    margin-left: 25px;
+    background-color: darkorange;
+    box-sizing: border-box;
+}
+
+.navigation ul li a {
+    width: 250px;
+    color: royalblue;
+    padding: 10px; 
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: darksalmon;
+    margin: 25px 30px 25px 200px;
+    position: relative;
+}
+
+.block1 {
+    margin-top: 185px;
+    border: 1px solid rgb(153, 150, 148);
+    position: relative;
+    right: 50px;
+    bottom: 50px;
+}
+
+.block2 {
+    border: 2px dashed blue;
+}
+
+.block3 {
+    border: 1px solid black;
+}
+
+.block4 {
+    border: 3px dashed chartreuse;
+}
+
+.block5 {
+    border: 1px solid cyan;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.kub {
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+    border: 2px solid black;
+    background-color: darkgrey;
+}
+
+.kub2 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.kub3 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.kub4 {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.big {
+    width: 800px;
+    height: 800px;
+    border: 1px solid teal;
+    background-color: rgb(233, 85, 233);
+    margin: 80px 80px 5px 180px;
+}
+
+.sqyare {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    float: left;
+    margin: 40px 10px 10px 45px;
+}
+
+.sqyare1 {
+    background-color: rgb(36, 235, 18);
+}
+
+.sqyare2 {
+    background-color: olivedrab;
+}
+
+.sqyare3 {
+    background-color: rosybrown;
+}
+
+.sqyare4 {
+    background-color: darkblue;
+}
+
+.sqyare5 {
+    background-color: slategrey;
+}
+
+.sqyare6 {
+    background-color: yellowgreen;
+}
+
+.sqyare7 {
+    background-color: maroon;
+}
+
+.sqyare8 {
+    background-color: darkgoldenrod;
+}
+
+.sqyare9 {
+    background-color: rgb(115, 31, 226);
+}
